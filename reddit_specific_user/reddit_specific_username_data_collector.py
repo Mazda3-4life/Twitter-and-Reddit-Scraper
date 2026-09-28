@@ -597,4 +597,4 @@ def main(username):
 
 if __name__ == "__main__":
     #username = input("Enter your username:").strip()
-    main("has900original")
+    main(input("Username:"))
